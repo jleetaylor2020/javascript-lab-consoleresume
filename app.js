@@ -23,7 +23,7 @@ displayPosition ('AT&T ', ' Sales Rep ', ' learned new technology and exceeded s
 
 console.log("My Skills:");
 
-function displaySkill (skills, ) {
+function displaySkill (skills) {
     var workskills = skills;
     console.log(workskills);  
     
@@ -34,9 +34,4 @@ displaySkill ('Microsoft Office');
 displaySkill ('Ninja');
 
 
-//Your name
-//Your career/field
-//A short description of yourself
-//A list of your interests
-//A list of your past positions that includes company/place name, title, short description of what you did
-//A list of your skills
+
